@@ -1,3 +1,3 @@
 # information-systems-design
 
-[FitTrack Pro](https://docs.google.com/document/d/1QoHEjWQK0Rvmfzpp2AsPfZRYDx0VG9N6pIkKq0ILRCc/edit?tab=t.0)
+[FitTrack Pro](https://docs.google.com/document/d/1jx87v_4OTH8upU8skv3veKcU_ewLKsqogsqsdRibBxA/edit?tab=t.0)
